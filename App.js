@@ -87,11 +87,11 @@ const styles = StyleSheet.create({
   },
   topBarText: {
     textAlign: 'center',
-    fontSize: 18
+    fontSize: 22
   },  
   topBarImg: { 
-    height: 30,
-    width: 30,
+    height: 22,
+    width: 22,
   },
   scrollViewContainer: {
     backgroundColor: '#F8F9FD'
